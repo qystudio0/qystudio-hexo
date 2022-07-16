@@ -13,7 +13,7 @@
     "version": "5.4.0"
   },
   "dependencies": {
-    "eslint": "^7.22.0",
+    "eslint": "8.20.0",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-html-minifier-terser": "^6.0.1",
